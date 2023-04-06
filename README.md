@@ -1,16 +1,43 @@
-### Hi there 👋
+# Hi there I'm Charlotte👋
 
-<!--
-**Charl1410/Charl1410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am super passionate about beatiful looking UI therefore, I am currently looking to become a front end UI React developer.
 
-Here are some ideas to get you started:
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Find me on [LinkedIn](https://www.linkedin.com/in/charlotte-griffin-907a15243/)
+
+### ✅ Graduated as full-stack developer from the [University of Birmingham](https://www.birmingham.ac.uk/postgraduate/courses/cpd/coding-boot-camp.aspx)
+
+***
+
+### 🔭 Projects:
+
+- [ORACODE](https://github.com/Charl1410/coding-blog) : This is an MVC coding blog where users can sign-up and login, create, edit and delete posts and comments. Technologies used were Express, Sequelize and handlebars. Come and take a look and a drop your own post! My responsibilities were creating layouts and partials in handlebars pulling through data from the SQL database. Working on the routes to serve up the pages.
+
+- [Sole Mates](https://github.com/Charl1410/SoleMates) : This project is a MERN stack application shoe shop that allows user to browse products, filter and add products to their basket. My responsibility was to create the react components and learn a new component library (Daisy UI) that works with Tailwind CSS for styling. 
+
+- I'm currently working on creating a full stack messenger app in React 
+
+
+***
+
+### 🌱 I'm currently learning:
+
+- ReactJS
+- Tailwind CSS
+- Figma 
+
+***
+
+### 💬 Ask me about:
+
+- Bouldering 
+- My cake baking instagram
+
+***
+
+### ⚡ Fun fact:
+
+- I love playing Fortnite and watching people stream 
+
+
