@@ -17,6 +17,7 @@ I am super passionate about beatiful looking UI therefore, I am currently lookin
 - [Sole Mates](https://github.com/Charl1410/SoleMates) : This project is a MERN stack application shoe shop that allows user to browse products, filter and add products to their basket. My responsibility was to create the react components and learn a new component library (Daisy UI) that works with Tailwind CSS for styling. 
 
 - I'm currently working on creating a full stack messenger app in React 
+- I am also working on developing my Tailwind CSS skills within React
 
 
 ***
