@@ -16,7 +16,8 @@ I am super passionate about beatiful looking UI therefore, I am currently lookin
 
 - [Sole Mates](https://github.com/Charl1410/SoleMates) : This project is a MERN stack application shoe shop that allows user to browse products, filter and add products to their basket. My responsibility was to create the react components and learn a new component library (Daisy UI) that works with Tailwind CSS for styling. 
 
-- I'm currently taking a [Udemy course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) and following a tutorial to build an expense tracker in React. [Check out my progress!](https://github.com/Charl1410/expense-tracker-tutorial)
+- I'm currently taking a React course: [React - The Complete Guide (incl Hooks, React Router, Redux)
+](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) and following a tutorial to build an expense tracker in React. [Check out my progress!](https://github.com/Charl1410/expense-tracker-tutorial)
 - I am also working on developing my Tailwind CSS skills within React
 
 
