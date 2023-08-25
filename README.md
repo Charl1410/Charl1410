@@ -1,6 +1,6 @@
 # Hi there I'm Charlotte👋
 
-I am super passionate about beatiful looking UI therefore, I am currently looking to become a front end UI React developer.
+I am super passionate about beatiful looking UI therefore, I am currently looking to become a front end UI React developer. I am currently working on recreating and restyling a website https://github.com/Charl1410/next.js. 
 
 ***
 
