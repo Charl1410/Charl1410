@@ -16,7 +16,7 @@ I am super passionate about beatiful looking UI therefore, I am currently lookin
 ](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) and following a tutorial to build an expense tracker in React. [Check out my progress!](https://github.com/Charl1410/expense-tracker-tutorial)
 - I am also working on developing my Tailwind CSS skills within React
 
-- Along side this course I am currently working on a small nextjs application called Recipeas to display recipes! This application will be able to filter recipes based on a variation of different criteria such as:
+- [RECIPEAS](https://github.com/Charl1410/recipeas) Along side this course I am currently working on a small nextjs application called Recipeas to display recipe! This application will be able to filter recipes based on a variation of different criteria such as:
 * Level of difficulty
 * Cooking time
 * Meal type
