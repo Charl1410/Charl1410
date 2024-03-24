@@ -6,7 +6,7 @@ I am super passionate about beatiful looking UI therefore, I am currently lookin
 
 ### 📫 Find me on [LinkedIn](https://www.linkedin.com/in/charlotte-griffin-907a15243/)
 
-### ✅ Graduated as full-stack developer from the [University of Birmingham](https://www.birmingham.ac.uk/postgraduate/courses/cpd/coding-boot-camp.aspx)
+### ✅ Completed a full-stack developer course from the [University of Birmingham](https://www.birmingham.ac.uk/postgraduate/courses/cpd/coding-boot-camp.aspx)
 
 ***
 
@@ -32,7 +32,7 @@ I am super passionate about beatiful looking UI therefore, I am currently lookin
 
 ### 🌱 I'm currently learning:
 
-- ReactJS
+- NextJS
 - Tailwind CSS
 - Figma 
 
@@ -45,8 +45,9 @@ I am super passionate about beatiful looking UI therefore, I am currently lookin
 
 ***
 
-### ⚡ Fun fact:
+### ⚡ Fun facts:
 
-- I love playing Fortnite and watching people stream 
+- I love playing Fortnite and watching people stream
+- I love to travel!
 
 
