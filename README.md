@@ -12,7 +12,7 @@ I am super passionate about beatiful looking UI therefore, I am currently lookin
 
 ### 🔭 Projects:
 
-- [RECIPEAS](https://github.com/Charl1410/recipeas) Along side this course I am currently working on a small nextjs application called Recipeas to display recipe! This application will be able to filter recipes based on a variation of different criteria such as:
+- [RECIPEAS](https://github.com/Charl1410/recipeas) I am currently working on a small nextjs application called Recipeas to display recipe! This application will be able to filter recipes based on a variation of different criteria such as:
 * Level of difficulty
 * Cooking time
 * Meal type
