@@ -1,6 +1,8 @@
 # Hi there I'm Charlotte 👋
 
-I am super passionate about beatiful looking UI therefore, I am currently looking to become a front end UI React developer. Check out my current project using Mantine Core, tailwind CSS and NextJS : https://github.com/Charl1410/recipeas. 
+I'm passionate about creating beautiful, intuitive user interfaces and enjoy bringing designs to life with modern web technologies. My current focus is on React, Next.js, and front-end development, with a particular interest in building responsive and accessible user experiences.
+
+Check out one of my recent projects I am working on which I'm using Mantine Core, Tailwind CSS, and Next.js: https://github.com/Charl1410/recipeas
 
 ***
 
@@ -12,7 +14,7 @@ I am super passionate about beatiful looking UI therefore, I am currently lookin
 
 ### 🔭 Projects:
 
-- [RECIPEAS](https://github.com/Charl1410/recipeas) I am currently working on a small nextjs application called Recipeas to display recipe! This application will be able to filter recipes based on a variation of different criteria such as:
+- [RECIPEAS](https://github.com/Charl1410/recipeas) I am currently working on a small nextjs application called Recipeas to display recipes! This application will be able to filter recipes based on a variation of different criteria such as:
 * Level of difficulty
 * Cooking time
 * Meal type
